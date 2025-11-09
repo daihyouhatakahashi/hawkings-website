@@ -153,7 +153,7 @@ export default function ContactForm() {
       <button
         type="submit"
         disabled={isSubmitting}
-        className="px-8 md:px-14 py-[1.125rem] bg-hawkings-black text-white text-[11px] font-medium uppercase tracking-extra-wide border border-hawkings-black hover:bg-white hover:text-hawkings-black transition-hawkings disabled:opacity-50 disabled:cursor-not-allowed"
+        className="mx-auto px-8 md:px-14 py-[1.125rem] bg-hawkings-black text-white text-[11px] font-medium uppercase tracking-extra-wide border border-hawkings-black hover:bg-white hover:text-hawkings-black transition-hawkings disabled:opacity-50 disabled:cursor-not-allowed"
       >
         {isSubmitting ? '送信中...' : '送信する'}
       </button>

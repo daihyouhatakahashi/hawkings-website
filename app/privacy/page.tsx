@@ -112,8 +112,8 @@ export default function PrivacyPage() {
         </div>
 
         <div className="mt-16 text-right">
-          <p className="text-sm text-hawkings-gray">制定日: 2024年8月8日</p>
-          <p className="text-sm text-hawkings-gray">最終更新: 2025年11月7日</p>
+          <p className="text-sm text-hawkings-gray">制定日: 2025年3月10日</p>
+          <p className="text-sm text-hawkings-gray">最終更新: 2025年11月9日</p>
         </div>
       </main>
 

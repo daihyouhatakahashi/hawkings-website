@@ -121,7 +121,7 @@ export default function Home() {
                 厳選された宇治抹茶と国産原材料のみを使用し、添加物を一切加えない本格抹茶ラテ。世界中で愛される本物の抹茶体験をお届けします。
               </p>
               <a
-                href="https://takauji.store"
+                href="https://takauji-matcha.com/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-xs uppercase tracking-extra-wide text-hawkings-gray hover:text-hawkings-black transition-hawkings inline-flex items-center gap-2"

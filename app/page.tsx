@@ -94,7 +94,7 @@ export default function Home() {
                 </div>
               </div>
               <p className="text-hawkings-gray font-light leading-relaxed mb-12">
-                ポケモンカードのコンディションをAIで精密鑑定し、その価値を可視化。誰でも簡単にカードの状態を判定でき、直接取引できる専用アプリ。
+                ポケモンカードのコンディションをAIで精密鑑定し、その価値を可視化。誰でも簡単にカードの状態を判定でき、カードの魅力を引き立てるアプリ。
               </p>
               <a
                 href="https://x.com/axci_official"
@@ -102,7 +102,7 @@ export default function Home() {
                 rel="noopener noreferrer"
                 className="text-xs uppercase tracking-extra-wide text-hawkings-gray hover:text-hawkings-black transition-hawkings inline-flex items-center gap-2"
               >
-                Learn More →
+                準備中 
               </a>
             </div>
 

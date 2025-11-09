@@ -148,19 +148,19 @@ export default function Home() {
             <div className="grid grid-cols-1 md:grid-cols-3 py-6 border-b border-hawkings-border">
               <dt className="text-sm text-hawkings-gray font-light">会社名</dt>
               <dd className="col-span-2 text-sm text-hawkings-charcoal font-light">
-                Hawkings 株式会社
+                Hawkings 株式会社（英字表記：Hawkings Inc. / 読み：ホーキンス）
               </dd>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-3 py-6 border-b border-hawkings-border">
               <dt className="text-sm text-hawkings-gray font-light">設立</dt>
               <dd className="col-span-2 text-sm text-hawkings-charcoal font-light">
-                2024年8月8日
+                2025年2月14日
               </dd>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-3 py-6 border-b border-hawkings-border">
               <dt className="text-sm text-hawkings-gray font-light">代表取締役</dt>
               <dd className="col-span-2 text-sm text-hawkings-charcoal font-light">
-                後藤 慶太
+                高橋 慧多
               </dd>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-3 py-6 border-b border-hawkings-border">

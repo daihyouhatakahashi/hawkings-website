@@ -35,28 +35,28 @@ export default function Home() {
             </span>
             <h2 className="font-serif text-3xl md:text-5xl font-light mb-8 tracking-wide">経営哲学</h2>
             <p className="text-hawkings-gray font-light leading-relaxed">
-              私たちは、単なる技術開発ではなく、本物のプロダクトを生み出すことに全力を注いでいます
+              限りある時間を全力で生き、自分なりの生き様をプロダクトとして後世に残す。それこそが、私たちが目指す究極のプロダクト開発です。
             </p>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-0">
             <div className="p-8 md:p-16 md:border-r border-hawkings-border hover:bg-hawkings-bg-alt transition-hawkings">
               <div className="text-xs font-medium uppercase tracking-extra-wide text-hawkings-gray mb-8">
-                Vision
+                MISSION
               </div>
-              <h4 className="font-serif text-2xl font-normal mb-6 tracking-wide">ビジョン</h4>
+              <h4 className="font-serif text-2xl font-normal mb-6 tracking-wide">使命</h4>
               <p className="text-hawkings-gray font-light leading-relaxed">
-                本物の価値を生み出し続ける
+                究極のプロダクト開発に全てを注ぐ
               </p>
             </div>
 
             <div className="p-8 md:p-16 md:border-r border-hawkings-border hover:bg-hawkings-bg-alt transition-hawkings">
               <div className="text-xs font-medium uppercase tracking-extra-wide text-hawkings-gray mb-8">
-                Mission
+                VISION
               </div>
-              <h4 className="font-serif text-2xl font-normal mb-6 tracking-wide">ミッション</h4>
+              <h4 className="font-serif text-2xl font-normal mb-6 tracking-wide">展望</h4>
               <p className="text-hawkings-gray font-light leading-relaxed">
-                技術と誠実さで、信頼されるサービスを創る
+                世界で使われるサービス・商品のスタンダードを自らの手で創造していく
               </p>
             </div>
 
@@ -94,7 +94,7 @@ export default function Home() {
                 </div>
               </div>
               <p className="text-hawkings-gray font-light leading-relaxed mb-12">
-                ポケモンカードのコンディションをAIで精密鑑定し、その価値を可視化。誰でも簡単にカードの状態を判定でき、カードの魅力を引き立てるアプリ。
+                カードのコンディションをAIで精密鑑定し、その価値を可視化。誰でも簡単にカードの状態を判定でき、カードの魅力を引き立てます。
               </p>
               <a
                 href="https://x.com/axci_official"

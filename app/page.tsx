@@ -60,7 +60,7 @@ export default function Home() {
               </p>
             </div>
 
-            <div className="p-16 hover:bg-hawkings-bg-alt transition-hawkings">
+            <div className="p-8 md:p-16 hover:bg-hawkings-bg-alt transition-hawkings">
               <div className="text-xs font-medium uppercase tracking-extra-wide text-hawkings-gray mb-8">
                 Value
               </div>

@@ -106,7 +106,7 @@ export default function Home() {
                 </li>
               </ul>
               <span className="inline-block py-2 px-5 border border-hawkings-border text-[11px] font-medium tracking-wider uppercase text-hawkings-charcoal">
-                2025年11月末 ベータ版リリース予定
+                2025年12月 ベータ版リリース予定
               </span>
             </div>
 

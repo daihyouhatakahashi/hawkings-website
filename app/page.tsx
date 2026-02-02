@@ -94,7 +94,7 @@ export default function Home() {
               <p className="text-[15px] text-hawkings-gray font-light leading-relaxed mb-10">
                 スマートフォンで撮影するだけで、AIが瞬時にトレーディングカードのセンタリングを評価。誰もが気軽に、正確に、自分のコレクションの価値を知ることができるプラットフォーム。
               </p>
-              <ul className="list-none mb-10">
+              <ul className="list-none mb-16">
                 <li className="text-[14px] text-hawkings-charcoal py-4 border-t border-b border-hawkings-border font-light tracking-wide">
                   AIによる高精度なセンタリング評価
                 </li>
@@ -105,9 +105,27 @@ export default function Home() {
                   基本機能は完全無料
                 </li>
               </ul>
-              <span className="inline-block py-2 px-5 border border-hawkings-border text-[11px] font-medium tracking-wider uppercase text-hawkings-charcoal">
-                2025年12月 ベータ版リリース予定
-              </span>
+              <div className="flex flex-col md:flex-row md:items-center">
+                <span className="inline-block py-2 px-5 border border-hawkings-border text-[11px] font-medium tracking-wider uppercase text-hawkings-charcoal mr-4">
+                  2026年1月 ストアリリース
+                </span>
+                <a
+                  href="https://axci.ai/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-block mr-4 text-hawkings-black text-[12px] font-medium tracking-extra-wide uppercase border-b border-hawkings-black pb-[2px] hover:opacity-50 transition-hawkings"
+                >
+                  VISIT AXCI
+                </a>
+                <a
+                  href="https://apps.apple.com/jp/app/axci-センタリング測定-カード管理/id6755650844"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex font-medium tracking-extra-wide hover:opacity-50 transition-hawkings"
+                >
+                  <img src="./download_app.svg" alt="" />
+                </a>
+              </div>
             </div>
 
             {/* TAKAUJI */}
@@ -172,7 +190,7 @@ export default function Home() {
 
             <div className="grid grid-cols-1 md:grid-cols-3 py-6 border-b border-hawkings-border">
               <dt className="text-sm text-hawkings-gray font-light">設立</dt>
-              <dd className="col-span-2 text-sm text-hawkings-charcoal font-light">2025年2月14日</dd>
+              <dd className="col-span-2 text-sm text-hawkings-charcoal font-light">2025年2月</dd>
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-3 py-6 border-b border-hawkings-border">

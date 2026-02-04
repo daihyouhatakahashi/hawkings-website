@@ -185,7 +185,7 @@ export default function Home() {
 
             <div className="grid grid-cols-1 md:grid-cols-3 py-6 border-b border-hawkings-border">
               <dt className="text-sm text-hawkings-gray font-light">代表取締役</dt>
-              <dd className="col-span-2 text-sm text-hawkings-charcoal font-light">高橋 慧多</dd>
+              <dd className="col-span-2 text-sm text-hawkings-charcoal font-light">TAKAHASHI KEITA</dd>
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-3 py-6 border-b border-hawkings-border">
@@ -204,7 +204,7 @@ export default function Home() {
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-3 py-6 border-b border-hawkings-border">
-              <dt className="text-sm text-hawkings-gray font-light">本社所在地</dt>
+              <dt className="text-sm text-hawkings-gray font-light">事務所所在地</dt>
               <dd className="col-span-2 text-sm text-hawkings-charcoal font-light">
                 〒153-0043 東京都目黒区東山1-22-21
               </dd>
